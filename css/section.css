@@ -6,7 +6,6 @@
   box-shadow:  15px 15px 30px #333533, -15px -15px 30px #CFDBD5;
   margin-top: 30px;
   font-family: 'Outfit', sans-serif;
-  padding: 20px;
 }
 
 .home-content {
@@ -15,12 +14,10 @@
   align-items: center;
 }
 
-.home-title {
-  font-size: 50px;
-}
-
-.home-undertitle {  
+.home-undertitle {
   writing-mode: vertical-lr;
   text-orientation: upright;
-  font-size: 25px;
+  font-size: 20px;
+  border-left: 3px solid #F5CB5C ;
+  border-right: 3px solid #F5CB5C ;
 }
