@@ -35,10 +35,10 @@
   transform: translatex(+20px);
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 580px) {
   
   .header {
-    height: 80px;
+    height: 100px;
   }
   
   .header-button {
@@ -48,7 +48,7 @@
   .alt-header-menu {
     display: flex;
     justify-content: space-around;
-    margin-top: -15px;
+    margin-top: -10px;
   }
 
   .alt-header-button {
