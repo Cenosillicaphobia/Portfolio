@@ -1,3 +1,7 @@
+.home {
+  margin-top: 130px;
+}
+
 
 .container-lg {
   border-radius: 5px;
@@ -52,7 +56,6 @@
 }
 
 .carusel-title,
-.skills-title,
 .contact-title {
   border-bottom: 3px solid #F5CB5C ;
 }
