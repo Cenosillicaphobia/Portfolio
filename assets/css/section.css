@@ -35,6 +35,10 @@
   margin-bottom: 50px; 
 }
 
+.skills-bar {
+  width: 50%;
+}
+
 .download-button {
   background-color: #242423;
   color: white;
@@ -60,6 +64,12 @@
   border-bottom: 3px solid #F5CB5C ;
 }
 
+.disabled-button,
+.disabled-link {
+  cursor: default;
+  pointer-events: none;
+}
+
 .bi-instagram,
 .bi-twitter,
 .bi-github {
@@ -68,8 +78,6 @@
   font-size: 20px;
 }
 
-.bi-instagram:hover,
-.bi-twitter:hover,
 .bi-github:hover {
   color: #F5CB5C;
   font-size: 22px;
